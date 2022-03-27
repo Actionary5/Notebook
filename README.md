@@ -1,2 +1,2 @@
 # Notebook
-All my Jupyter notebook where i practice and do projects
+Repo for storing and tracking my self-study progress in Data Science
