@@ -1,2 +1,2 @@
 # Notebook
-Repo for storing and tracking my self-study progress in Data Science
+Repo for storing notes from Jose Portilla Data Science course on Udemy.
