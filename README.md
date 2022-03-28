@@ -1,2 +1,2 @@
 # Notebook
-All my Jupyter notebook where i practice and do projects
+Repo for storing notes from Jose Portilla Data Science course on Udemy.
